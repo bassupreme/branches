@@ -21,4 +21,6 @@ In questa sezione quello che succede è che la roma vince contro tutti gli altri
 Altri cambiamenti fatti durante la fase di sviluppo 
 
 # ALTRA SEZIONE IMPORTANTE
-Contenuto aggiunto all'iterno del branch feature.
+Contenuto aggiunto all'iterno del branch feature nuovo
+altro contenuto
+
